@@ -18,7 +18,7 @@ const promotions = [
   {
     id: 3,
     image:
-      'images/banner2.jpg',
+      'images/banner3.jpg',
     title: 'Weekend Essentials',
     description: 'Shop versatile outfits designed to move from casual plans to evening moments.',
   },
