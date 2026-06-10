@@ -8,9 +8,9 @@ function Header({ cartCount = 0 }) {
         <Container fluid className="px-0">
           <Navbar.Brand href="#home" className="shop-logo">
             <span className="logo-mark" aria-hidden="true">
-              SF
+              <img src="images/logo2.jpg" alt="logo" />
             </span>
-            <span>Shop fashion</span>
+            <span>Shop</span>
           </Navbar.Brand>
 
           <Navbar.Toggle aria-controls="shop-navbar-nav" />
